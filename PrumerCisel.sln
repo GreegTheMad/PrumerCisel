@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrumerCisel", "PrumerCisel\PrumerCisel.csproj", "{7FA8C6E7-066F-43B3-816B-E1E939971652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA8C6E7-066F-43B3-816B-E1E939971652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA8C6E7-066F-43B3-816B-E1E939971652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA8C6E7-066F-43B3-816B-E1E939971652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA8C6E7-066F-43B3-816B-E1E939971652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C703488-308B-4875-A476-EABAF8161FDF}
+	EndGlobalSection
+EndGlobal

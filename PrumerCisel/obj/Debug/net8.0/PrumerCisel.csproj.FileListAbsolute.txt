@@ -1,0 +1,14 @@
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\bin\Debug\net8.0\PrumerCisel.exe
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\bin\Debug\net8.0\PrumerCisel.deps.json
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\bin\Debug\net8.0\PrumerCisel.runtimeconfig.json
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\bin\Debug\net8.0\PrumerCisel.dll
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\bin\Debug\net8.0\PrumerCisel.pdb
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.AssemblyInfoInputs.cache
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.AssemblyInfo.cs
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.csproj.CoreCompileInputs.cache
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.dll
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\refint\PrumerCisel.dll
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.pdb
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\PrumerCisel.genruntimeconfig.cache
+C:\Users\jakub.dovala\source\repos\PrumerCisel\PrumerCisel\obj\Debug\net8.0\ref\PrumerCisel.dll
